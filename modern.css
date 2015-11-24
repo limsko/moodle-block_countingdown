@@ -1,0 +1,30 @@
+.block_countingdown {
+	border: none !important;
+	background-color: #ec5e2f;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.block_countingdown .header h2 {
+	color: #ffffff;
+	text-shadow: none;
+}
+
+.block_countingdown .content {
+	color: #ffffff;
+}
+
+.block_countingdown .content h3 {
+	color: #ffffff;
+	text-shadow: none !important;
+}
+
+.block_countingdown .content h4 {
+	color: #ffffff;
+	text-shadow: none !important;
+}
+
+.block_countingdown .kl_counter_desc div {
+	color: #ffffff;
+}

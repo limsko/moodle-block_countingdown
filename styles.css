@@ -1,0 +1,39 @@
+.block_countingdown .content {
+	text-align: center;
+	color: #656565;
+}
+
+.block_countingdown .kl_counter,
+.block_countingdown .kl_counter_desc  {
+	max-width: 350px;
+	margin: 0 auto;
+}
+
+.block_countingdown .kl_counter {
+	padding-top: 35px;
+}
+
+.block_countingdown .kl_counter_desc  {
+	padding-bottom: 15px;
+}
+
+.block_countingdown .content h3.head {
+	font-size: 1.5em;
+}
+
+.block_countingdown .content h4 {
+	font-size: 1.2em;
+}
+
+.block_countingdown .kl_counter_desc div {
+	color: #989898;
+	font-size: 17px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.block_countingdown .kl_counter div {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
